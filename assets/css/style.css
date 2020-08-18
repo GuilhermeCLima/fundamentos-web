@@ -44,7 +44,13 @@
     margin-left: 100px;
 }
 .mb-50{
-    margin-bottom: 150px;
+    margin-bottom: 50px;
+}
+.ml-200{
+    margin-left: 10;
+}
+.font{
+   font-size: 40px ;
 }
 
 /*estilo da pagina contato.html*/
